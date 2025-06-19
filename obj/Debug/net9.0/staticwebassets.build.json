@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bDd4wQ31kZRHysDEvQxXJOHCA5vqV6VetJ2sj5NQY+Y=",
+  "Source": "StudentEventAPI",
+  "BasePath": "_content/StudentEventAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

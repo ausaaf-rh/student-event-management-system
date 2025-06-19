@@ -1,0 +1,336 @@
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.csproj.AssemblyReference.cache
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.AssemblyInfoInputs.cache
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.AssemblyInfo.cs
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.csproj.CoreCompileInputs.cache
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.MvcApplicationPartsAssemblyInfo.cs
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.MvcApplicationPartsAssemblyInfo.cache
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/appsettings.Development.json
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/appsettings.json
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.staticwebassets.endpoints.json
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.exe
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.deps.json
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.runtimeconfig.json
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.pdb
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Azure.Core.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Azure.Identity.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Humanizer.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.OpenApi.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Mono.TextTemplating.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.ClientModel.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.CodeDom.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Composition.Convention.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Composition.Hosting.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Composition.Runtime.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Composition.TypedParts.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Drawing.Common.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Formats.Asn1.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Memory.Data.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Runtime.Caching.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Security.Permissions.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Text.Json.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/System.Windows.Extensions.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/scopedcss/bundle/StudentEventAPI.styles.css
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/staticwebassets.build.json
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/staticwebassets.development.json
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.StudentEventAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.StudentEventAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.build.StudentEventAPI.props
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.StudentEventAPI.props
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.StudentEventAPI.props
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/staticwebassets.pack.json
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentE.35043308.Up2Date
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/refint/StudentEventAPI.dll
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.pdb
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.genruntimeconfig.cache
+D:/university/2025/web engineering/after mids/ccp/StudentEventAPI/obj/Debug/net9.0/ref/StudentEventAPI.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/appsettings.Development.json
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/appsettings.json
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.staticwebassets.endpoints.json
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.deps.json
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.runtimeconfig.json
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/StudentEventAPI.pdb
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Azure.Core.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Azure.Identity.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Humanizer.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.ClientModel.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.CodeDom.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Drawing.Common.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Formats.Asn1.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Memory.Data.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Runtime.Caching.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Security.Permissions.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Text.Json.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/System.Windows.Extensions.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/osaf/Downloads/StudentEventAPI/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.csproj.AssemblyReference.cache
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.AssemblyInfoInputs.cache
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.AssemblyInfo.cs
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.csproj.CoreCompileInputs.cache
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/scopedcss/bundle/StudentEventAPI.styles.css
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/staticwebassets.build.json
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/staticwebassets.development.json
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.StudentEventAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.StudentEventAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.build.StudentEventAPI.props
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.StudentEventAPI.props
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.StudentEventAPI.props
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/staticwebassets.pack.json
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentE.35043308.Up2Date
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.dll
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/refint/StudentEventAPI.dll
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.pdb
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/StudentEventAPI.genruntimeconfig.cache
+/home/osaf/Downloads/StudentEventAPI/obj/Debug/net9.0/ref/StudentEventAPI.dll
