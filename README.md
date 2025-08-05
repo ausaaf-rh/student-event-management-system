@@ -1,4 +1,4 @@
-# University Gatherings API
+# Student Event Management System
 
 A comprehensive ASP.NET Core Web API for managing university events, student registrations, and feedback collection. This system provides endpoints for creating, managing, and tracking academic gatherings with full CRUD operations.
 
